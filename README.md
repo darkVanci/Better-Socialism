@@ -16,8 +16,6 @@ The command economy now make bureaucrats hand in all their dividends (which can 
 
 Theoretically, it is compatible with most mods, as long as they don't change the worker cooperatives, council republic and command economy because I didn't directly modify the source file. Instead,I created new files to write what I need to change
 
-Match 1.1.2; Only support English and simplified Chinese because of the new text
-
 
 1.所有制
 修改了劳动合作社的分红，现在所有人都享受相同的分红而不仅仅是技工和劳工（真正的全民所有制）
@@ -33,5 +31,3 @@ Match 1.1.2; Only support English and simplified Chinese because of the new text
 计划经济现在将使官僚上缴全部红利（可用于建设任意产业），并且不再强制补贴，使你的国家真正拥有政府运营的本国产业，而不是被原版名为官僚实为资本家的pop所占据，计划经济超强掌控力的代价是增加25%人口行政力花费乘数（当然政府运营在工资开销上高于其他所有制，是比较低效的，但是潜力很强，可以做到集中力量办大事的效果）
 
 理论上和绝大部分mod兼容，只要它没改劳动合作社、委员会共和制和计划经济，因为我没有直接修改源文件，而是另建文件去写我需要改的内容
-
-适配1.1.2；由于添加了新文本，目前只支持简中和英语
