@@ -18,7 +18,6 @@ Theoretically, it is compatible with most mods, as long as they don't change the
 
 Match 1.1.2; Only support English and simplified Chinese because of the new text
 
-Hope for feedback if you have any advice or meet problems
 
 1.所有制
 修改了劳动合作社的分红，现在所有人都享受相同的分红而不仅仅是技工和劳工（真正的全民所有制）
@@ -36,6 +35,3 @@ Hope for feedback if you have any advice or meet problems
 理论上和绝大部分mod兼容，只要它没改劳动合作社、委员会共和制和计划经济，因为我没有直接修改源文件，而是另建文件去写我需要改的内容
 
 适配1.1.2；由于添加了新文本，目前只支持简中和英语
-
-如果有什么建议或者问题也希望可以反馈给我
-如果发不了评论可以去V3贴吧搜索：“mod发布：更好的劳动合作社” 来向我反馈
