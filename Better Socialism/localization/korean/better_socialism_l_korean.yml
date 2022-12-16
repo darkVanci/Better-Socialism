@@ -1,0 +1,7 @@
+﻿l_korean:
+pm_activity_urban_clergy:0 "문체 활동 중심"
+institution_development_and_reform_commission:0 "개발 및 개혁 위원회"
+institution_development_and_reform_commission_desc:0 "재생산을 조절하고 경제 발전을 촉진하는 위원회."
+modifier_country_institution_development_and_reform_commission_max_investment_add:0 "최대 $institution_development_and_reform_commission$[concept_institution] 투자"
+modifier_country_institution_development_and_reform_commission_max_investment_add_desc:0 "$institution_development_and_reform_commission$[concept_institution]의 최대 투자 단계에 대한 보너스 또는 불이익"
+pm_trade_center_worker_cooperative:1 "$pm_worker_cooperative$"
