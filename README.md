@@ -14,16 +14,32 @@ The dividend of worker cooperatives has been modified. Now everyone enjoys the s
 *That is to say, the more profitable the factory is, the smaller the income percent gap between engineers and labors is, and the closer it is to common prosperity. (Labors and machinists of the vanilla worker cooperatives is the new privilege class, as engineers, shopkeepers and clerks all work for them.)
 In addition, the cooperative will no longer add extra working population, and will remove the clergymen from the farms and pastures. 
 *Even self supporting farms have no clergy in the cooperative mode, so why do more productive farms and pastures have clergymen?
-The added recreation and sports centers in urban center replace all clergymen with clerks, and have the same dividend mechanism as the worker cooperatives. 
+The added recreation and sports centers in urban center(require the council republic to unlock)replace all clergymen with clerks, and have the same dividend mechanism as the worker cooperatives. 
 Add worker cooperative to trade center, consist of shopkeepers and clerks in 1:3, which requires the council republic to unlock, and council republic no longer unlocks the government run ownership of the trade center (after all, except for this, all government runs are unlocked by the command economy)
 
-(3)
+(2)Government Run (State Ownership) [only available in command economy]
+Reduce Government Run bureaucratic posts fromv +150 per level to +100 per level (the same number of privately owned capitalists)
+Accordingly, Government Run now consume administrative power:(per level)-1 for agriculture, fishery, forestry and urban centers, -1.5 for mining, -2 for industry and railway, and -0.5 for trade centers and academy of arts (subject to throughput efficiency)
+Add government building to urban center, which requires command economy to unlock. Bureaucrats and staff are 1:3
+Add government patronage to academy of arts, which requires command economy to unlock. Bureaucrats and scholars 15:85
+
+(3)Others
+The production method of the canal has been modified and the capitalists are replaced by bureaucrats. (After all, the canal has no dividend, and even the capitalists can only get wages. Are they capitalists? At most senior workers)
 
 2.Law and Institution
-Add Development and Reform Commission(spend bureaucracy to regulate reproduction and promote economic development). Each level will increase the contribution rate of people in the worker cooperative to the investment pool by 5%, which will be unlocked by council republic and provide+5 maximum levels. If you want to promote consumption, you can lower its level at any time (Since it is owned by the whole people, it is not surprising that people invest some money in extending reproduction)
-The modifiers to council republic has been revised, and now the political power of trade unions is directly increased, not that of technicians and farmers (After all, directly adding political power of a certain type of occupation should be the effect of the power distribution law)
-The command economy now make bureaucrats hand in all their dividends (which can be used to build any industry), and is no longer mandate subsidies, so that your country really has its own industry run by the government, instead of being occupied by pop called bureaucrats who are actually capitalists in the vanilla game, The cost of the super control of the command economy is to increase the bureaucracy population cost multiplier by 25% (of course, the government operation is more inefficient than other ownership systems in terms of wage spending, but it has strong potential, which can achieve the effect of concentrating on major issues)
+(1)Council Republic
+Add Development and Reform Commission(spend bureaucracy to regulate reproduction and promote economic development). 
+Each level will increase the contribution rate of people in the worker cooperative to the investment pool by 5%, which will be unlocked by council republic and provide+5 maximum levels. 
+*If you want to promote consumption, you can lower its level at any time (Since it is owned by the whole people, it is not surprising that people invest some money in extending reproduction)
+The modifiers to council republic has been revised, it directly increases political power of trade unions by 10%, not that of technicians and farmers by 25%. Moreover,  it also reduces the political power brought by wealth by 20%.
 
+(2)Command Economy
+Command economy now levies 100% dividend tax (making your country really own the domestic industry run by the government, rather than being embezzled by the vanilla bureaucratic pop)
+The cost of the super control of command economy is to is to consume additional bureaucracy for your buildings
+*In the later stage of the game, you will need a huge bureaucratic team to maintain the operation of command economy, which can simulate the difficulties encountered by the command economy in reality to a certain extent
+In order to reduce the waste of administrative power, command econom will make Development and Reform Commission -4 the largest level (I don't know how to disable institutions in different law groups)
+
+(3)Some supplements
 Theoretically, it is compatible with most mods, as long as they don't change the worker cooperatives, council republic and command economy because I didn't directly modify the source file. Instead,I created new files to write what I need to change
 
 适配1.1.2；支持简中、英语、日语和韩语（不支持的语言显示英语而非代码）
