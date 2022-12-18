@@ -3,9 +3,10 @@ This is a mod of Victoria3
 
 1.Ownership
 The dividend of worker cooperatives has been modified. Now everyone enjoys the same dividend, not just machinists and laborers (real ownership by the whole people)
-That is to say, the more profitable the factory is, the smaller the income percent gap between engineers and labors is, and the closer it is to common prosperity. (Labors and machinists of the vanilla worker cooperatives is the new privilege class, as engineers, shopkeepers and clerks all work for them.)
-In addition, the cooperative will no longer add extra working population, and will remove the clergymen from the farms and pastures. (as they get money for doing nothing, even self supporting farms have no clergy in the cooperative mode, so why do more advanced and productive farms and pastures have clergymen? )
-The newly added recreation and sports center in urban center needs to be unlocked by the non state religion and the council republic, replace all clergymen with clerks, and have the same dividend mechanism as the worker cooperatives. Now you have an opportunity to completely eliminate religious forces in your country
+*That is to say, the more profitable the factory is, the smaller the income percent gap between engineers and labors is, and the closer it is to common prosperity. (Labors and machinists of the vanilla worker cooperatives is the new privilege class, as engineers, shopkeepers and clerks all work for them.)
+In addition, the cooperative will no longer add extra working population, and will remove the clergymen from the farms and pastures. 
+*Even self supporting farms have no clergy in the cooperative mode, so why do more productive farms and pastures have clergymen?
+The added recreation and sports centers in urban center replace all clergymen with clerks, and have the same dividend mechanism as the worker cooperatives. 
 Add worker cooperative to trade center, consist of shopkeepers and clerks in 1:3, which requires the council republic to unlock, and council republic no longer unlocks the government run ownership of the trade center (after all, except for this, all government runs are unlocked by the command economy)
 The production method of the canal has been modified and the capitalists are replaced by bureaucrats. (After all, the canal has no dividend, and even the capitalists can only get wages. Are they capitalists? At most senior workers)
 
@@ -29,7 +30,8 @@ Theoretically, it is compatible with most mods, as long as they don't change the
 (1)劳动合作社（集体所有制）[计划经济下不可启用]
 修改了劳动合作社的分红，现在所有人都享受相同的分红而不仅仅是技工和劳工（所有者都是劳动者,劳动者都是所有者）
 *也就是说工厂越赚钱，工程师和劳工的收入相差比例越小，越接近共同富裕（原版合作社里的技工和劳工就是新的权贵阶级，工程师、店主和职员都给他们打工）
-此外，合作社不再增加额外的劳动人口，并且会移除农场和牧场的教士 *连自给农场在合作社模式下都没有教士，那么生产力更高的农场和牧场为什么会有教士？
+此外，合作社不再增加额外的劳动人口，并且会移除农场和牧场的教士 
+*连自给农场在合作社模式下都没有教士，那么生产力更发达的农场和牧场为什么会有教士？
 城镇中心加入文体活动中心，需要委员会共和制解锁，把所有教士替换为职员，并且与劳动合作社有相同分红机制。
 贸易中心加入劳动合作社，店主和职员 1:3，同样是均等分红，需要委员会共和制解锁
 
