@@ -1,6 +1,9 @@
 # Better-Socialism
 This is a mod of Victoria3
 
+Match 1.1.2; support English, Chinese, Japanese and Korean.
+For non-localized languages, the new text will be shown in English instead of code.
+
 0.Summary
 Modify the dividend mechanism of labor cooperatives and added new institution
 New ownership production mode has been added to some buildings
@@ -20,8 +23,8 @@ Add worker cooperative to trade center, consist of shopkeepers and clerks in 1:3
 (2)Government Run (State Ownership) [only available in command economy]
 Reduce Government Run bureaucratic posts fromv +150 per level to +100 per level (the same number of privately owned capitalists)
 Accordingly, Government Run now consume administrative power:(per level)-1 for agriculture, fishery, forestry and urban centers, -1.5 for mining, -2 for industry and railway, and -0.5 for trade centers and academy of arts (subject to throughput efficiency)
-Add government building to urban center, which requires command economy to unlock. Bureaucrats and staff are 1:3
-Add government patronage to academy of arts, which requires command economy to unlock. Bureaucrats and scholars 15:85
+Add government building to urban center, which requires command economy to unlock. Bureaucrats and clerks are in 1:3
+Add government patronage to academy of arts, which requires command economy to unlock. Bureaucrats and scholars are in 15:85
 
 (3)Others
 The production method of the canal has been modified and the capitalists are replaced by bureaucrats. (After all, the canal has no dividend, and even the capitalists can only get wages. Are they capitalists? At most senior workers)
@@ -39,8 +42,11 @@ The cost of the super control of command economy is to is to consume additional 
 *In the later stage of the game, you will need a huge bureaucratic team to maintain the operation of command economy, which can simulate the difficulties encountered by the command economy in reality to a certain extent
 In order to reduce the waste of administrative power, command econom will make Development and Reform Commission -4 the largest level (I don't know how to disable institutions in different law groups)
 
-(3)Some supplements
-Theoretically, it is compatible with most mods, as long as they don't change the worker cooperatives, council republic and command economy because I didn't directly modify the source file. Instead,I created new files to write what I need to change
+3.Some Supplements
+Theoretically, it is compatible with most mods, as long as they don't change the worker cooperatives, government run, council republic, command economy and others I've changed. because I didn't directly modify the source file. Instead,I created new files to write what I need to change.
+---------------
+Later updates will be synchronized to my repository of github:
+https://github.com/darkVanci/Better-Socialism
 
 适配1.1.2；支持简中、英语、日语和韩语（不支持的语言显示英语而非代码）
 
