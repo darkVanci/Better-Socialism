@@ -1,17 +1,26 @@
 # Better-Socialism
 This is a mod of Victoria3
 
+0.Summary
+Modify the dividend mechanism of labor cooperatives and added new institution
+New ownership production mode has been added to some buildings
+Separate the socialist market economy from the command economy
+The command economy has been redone, giving the planned economy a new experience
+And some other fine-tuning
+
 1.Ownership
-The dividend of worker cooperatives has been modified. Now everyone enjoys the same dividend, not just machinists and laborers (real ownership by the whole people)
+(1)Worker Cooperative (Collective Ownership) [cannot be used in command economy]
+The dividend of worker cooperatives has been modified. Now everyone enjoys the same dividend, not just machinists and laborers (all owners are workers, and all workers are owners)
 *That is to say, the more profitable the factory is, the smaller the income percent gap between engineers and labors is, and the closer it is to common prosperity. (Labors and machinists of the vanilla worker cooperatives is the new privilege class, as engineers, shopkeepers and clerks all work for them.)
 In addition, the cooperative will no longer add extra working population, and will remove the clergymen from the farms and pastures. 
 *Even self supporting farms have no clergy in the cooperative mode, so why do more productive farms and pastures have clergymen?
 The added recreation and sports centers in urban center replace all clergymen with clerks, and have the same dividend mechanism as the worker cooperatives. 
 Add worker cooperative to trade center, consist of shopkeepers and clerks in 1:3, which requires the council republic to unlock, and council republic no longer unlocks the government run ownership of the trade center (after all, except for this, all government runs are unlocked by the command economy)
-The production method of the canal has been modified and the capitalists are replaced by bureaucrats. (After all, the canal has no dividend, and even the capitalists can only get wages. Are they capitalists? At most senior workers)
+
+(3)
 
 2.Law and Institution
-The new Development and Reform Commission(spend bureaucracy to regulate reproduction and promote economic development) is added. Each level will increase the contribution rate of people in the worker cooperative to the investment pool by 5%, which will be unlocked by council republic and provide+5 maximum levels. If you want to promote consumption, you can lower its level at any time (Since it is owned by the whole people, it is not surprising that people invest some money in extending reproduction)
+Add Development and Reform Commission(spend bureaucracy to regulate reproduction and promote economic development). Each level will increase the contribution rate of people in the worker cooperative to the investment pool by 5%, which will be unlocked by council republic and provide+5 maximum levels. If you want to promote consumption, you can lower its level at any time (Since it is owned by the whole people, it is not surprising that people invest some money in extending reproduction)
 The modifiers to council republic has been revised, and now the political power of trade unions is directly increased, not that of technicians and farmers (After all, directly adding political power of a certain type of occupation should be the effect of the power distribution law)
 The command economy now make bureaucrats hand in all their dividends (which can be used to build any industry), and is no longer mandate subsidies, so that your country really has its own industry run by the government, instead of being occupied by pop called bureaucrats who are actually capitalists in the vanilla game, The cost of the super control of the command economy is to increase the bureaucracy population cost multiplier by 25% (of course, the government operation is more inefficient than other ownership systems in terms of wage spending, but it has strong potential, which can achieve the effect of concentrating on major issues)
 
