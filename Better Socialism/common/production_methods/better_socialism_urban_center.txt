@@ -120,7 +120,7 @@ pm_independent_artists = {
 pm_government_patronage = {
 	texture = "gfx/interface/icons/production_method_icons/government_run.dds"
 
-	unlocking_technologies = {
+	unlocking_laws = {
 		law_command_economy
 	}
 
