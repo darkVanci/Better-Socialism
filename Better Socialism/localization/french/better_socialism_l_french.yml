@@ -1,5 +1,7 @@
 ﻿l_french:
 pm_activity_urban_clergy:0 "Recreation and Sports Centers"
+pm_government_urban_clergy:0 "Government Buildings"
+pm_government_patronage:0 "Government Patronage"
 institution_development_and_reform_commission:0 "Development and Reform Commission"
 institution_development_and_reform_commission_desc:0 "The commission regulating reproduction and promoting economic development."
 modifier_country_institution_development_and_reform_commission_max_investment_add:0 "Max $institution_development_and_reform_commission$ [concept_institution] Investment"

@@ -1,5 +1,7 @@
 ﻿l_japanese:
 pm_activity_urban_clergy:0 "文体活動中心"
+pm_government_urban_clergy:0 "政府庁舎"
+pm_government_patronage:0 "政府的援助"
 institution_development_and_reform_commission:0 "発展改革委員会"
 institution_development_and_reform_commission_desc:0 "再生産を調整し、経済発展を促進する委員会。"
 modifier_country_institution_development_and_reform_commission_max_investment_add:0 "最大 $institution_development_and_reform_commission$[concept_institution] 投資"
