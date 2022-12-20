@@ -41,7 +41,6 @@ Command economy now levies 100% dividend tax (making your country really own the
 The cost of the super control of command economy is to is to consume additional bureaucracy for your buildings
 *In the later stage of the game, you will need a huge bureaucratic team to maintain the operation of command economy, which can simulate the difficulties encountered by the command economy in reality to a certain extent
 In order to reduce the waste of administrative power, command econom will make Development and Reform Commission -4 the largest level (I don't know how to disable institutions in different law groups)
-
 3.Some Supplements
 Theoretically, it is compatible with most mods, as long as they don't change the worker cooperatives, government run, council republic, command economy and others I've changed. because I didn't directly modify the source file. Instead,I created new files to write what I need to change.
 ---------------
