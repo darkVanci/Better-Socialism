@@ -46,8 +46,6 @@ In order to reduce the waste of administrative power, command econom will make D
 Theoretically, it is compatible with most mods, as long as they don't change the worker cooperatives, government run, council republic, command economy and others I've changed. because I didn't directly modify the source file. Instead,I created new files to write what I need to change.
 
 ---------------
-Later updates will be synchronized to my repository of github:
-https://github.com/darkVanci/Better-Socialism
 
 适配1.1.2；支持简中、英语、日语和韩语（不支持的语言显示英语而非代码）
 
@@ -92,7 +90,3 @@ https://github.com/darkVanci/Better-Socialism
 3.一些补充
 理论上和绝大部分mod兼容，只要它没改劳动合作社、政府运营、委员会共和制、计划经济以及其他我修改的内容，因为我没有直接修改源文件，而是另建文件去写我需要改的内容
 如果发不了评论的话可以去V3贴吧搜索"更好的劳动合作社"来向我反馈
-
----------------
-之后的更新我会同步到github的仓库里, 有需要的话可以自取:
-https://github.com/darkVanci/Better-Socialism
