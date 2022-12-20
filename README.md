@@ -6,23 +6,24 @@ For non-localized languages, the new text will be shown in English instead of co
 
 0.Summary
 Modify the dividend mechanism of labor cooperatives and added new institution
-New ownership production mode has been added to some buildings
-Separate the socialist market economy from the command economy
-The command economy has been redone, giving the planned economy a new experience
+New ownership production methods have been added to some buildings
+Separate socialist market economy and command economy
+The command economy has been redone, giving command economy a new experience
 And some other fine-tuning
 
 1.Ownership
 (1)Worker Cooperative (Collective Ownership) [cannot be used in command economy]
 The dividend of worker cooperatives has been modified. Now everyone enjoys the same dividend, not just machinists and laborers (all owners are workers, and all workers are owners)
-*That is to say, the more profitable the factory is, the smaller the income percent gap between engineers and labors is, and the closer it is to common prosperity. (Labors and machinists of the vanilla worker cooperatives is the new privilege class, as engineers, shopkeepers and clerks all work for them.)
+*That is to say, the more profitable the factory is, the smaller the income percent gap between engineers and labors is, and the closer it is to common prosperity. (Labors and machinists of the vanilla worker cooperatives are the new privilege class, as engineers, shopkeepers and clerks all work for them.)
 In addition, the cooperative will no longer add extra working population, and will remove the clergymen from the farms and pastures. 
 *Even self supporting farms have no clergy in the cooperative mode, so why do more productive farms and pastures have clergymen?
 The added recreation and sports centers in urban center(require the council republic to unlock)replace all clergymen with clerks, and have the same dividend mechanism as the worker cooperatives. 
-Add worker cooperative to trade center, consist of shopkeepers and clerks in 1:3, which requires the council republic to unlock, and council republic no longer unlocks the government run ownership of the trade center (after all, except for this, all government runs are unlocked by the command economy)
+Add worker cooperative to trade center, consist of shopkeepers and clerks in 1:3, which requires the council republic to unlock, and council republic no longer unlocks the government run ownership of the trade center
 
 (2)Government Run (State Ownership) [only available in command economy]
 Reduce Government Run bureaucratic posts fromv +150 per level to +100 per level (the same number of privately owned capitalists)
 Accordingly, Government Run now consume administrative power:(per level)-1 for agriculture, fishery, forestry and urban centers, -1.5 for mining, -2 for industry and railway, and -0.5 for trade centers and academy of arts (subject to throughput efficiency)
+Government Run will also remove the clergymen from the farms and pastures. 
 Add government building to urban center, which requires command economy to unlock. Bureaucrats and clerks are in 1:3
 Add government patronage to academy of arts, which requires command economy to unlock. Bureaucrats and scholars are in 15:85
 
@@ -37,7 +38,7 @@ Each level will increase the contribution rate of people in the worker cooperati
 The modifiers to council republic has been revised, it directly increases political power of trade unions by 10%, not that of technicians and farmers by 25%. Moreover,  it also reduces the political power brought by wealth by 20%.
 
 (2)Command Economy
-Command economy now levies 100% dividend tax (making your country really own the domestic industry run by the government, rather than being embezzled by the vanilla bureaucratic pop)
+Command economy now levies 100% dividend tax (making your country really own the domestic industry run by the government, rather than being embezzled by the vanilla bureaucratic pop; of course, in the case of surplus bureaucracy and tax collection capacity)
 The cost of the super control of command economy is to is to consume additional bureaucracy for your buildings
 *In the later stage of the game, you will need a huge bureaucratic team to maintain the operation of command economy, which can simulate the difficulties encountered by the command economy in reality to a certain extent
 In order to reduce the waste of administrative power, command econom will make Development and Reform Commission -4 the largest level (I don't know how to disable institutions in different law groups)
