@@ -24,20 +24,6 @@
 		country_institution_development_and_reform_commission_max_investment_add = -4
 		tax_dividends_add = 1						
 	}
-
-	build_from_investment_pool = {
-		bg_agriculture
-		bg_plantations
-		bg_ranching
-		bg_manufacturing
-		bg_mining
-		bg_logging
-		bg_rubber
-		bg_whaling
-		bg_fishing
-		bg_oil_extraction
-		bg_infrastructure
-	}
 	
 	possible_political_movements = {
 		law_interventionism
