@@ -85,7 +85,7 @@ pm_government_run_building_logging_camp = {
 
 	country_modifiers = {
 		workforce_scaled = {
-			country_bureaucracy_add = -1
+			country_bureaucracy_add = -0.5
 
 		}
 	}
@@ -113,7 +113,7 @@ pm_government_run_building_fishing_wharf = {
 
 	country_modifiers = {
 		workforce_scaled = {
-			country_bureaucracy_add = -1
+			country_bureaucracy_add = -0.5
 
 		}
 	}
@@ -141,7 +141,7 @@ pm_government_run_building_whaling_station = {
 
 	country_modifiers = {
 		workforce_scaled = {
-			country_bureaucracy_add = -1
+			country_bureaucracy_add = -0.5
 
 		}
 	}

@@ -143,7 +143,7 @@ pm_government_run_building_coal_mine = {
 
 	country_modifiers = {
 		workforce_scaled = {
-			country_bureaucracy_add = -1.5
+			country_bureaucracy_add = -0.75
 
 		}
 	}
@@ -173,7 +173,7 @@ pm_government_run_building_iron_mine = {
 
 	country_modifiers = {
 		workforce_scaled = {
-			country_bureaucracy_add = -1.5
+			country_bureaucracy_add = -0.75
 
 		}
 	}
@@ -203,7 +203,7 @@ pm_government_run_building_lead_mine = {
 
 	country_modifiers = {
 		workforce_scaled = {
-			country_bureaucracy_add = -1.5
+			country_bureaucracy_add = -0.75
 
 		}
 	}
@@ -233,7 +233,7 @@ pm_government_run_building_sulfur_mine = {
 
 	country_modifiers = {
 		workforce_scaled = {
-			country_bureaucracy_add = -1.5
+			country_bureaucracy_add = -0.75
 
 		}
 	}
@@ -263,7 +263,7 @@ pm_government_run_building_gold_mine = {
 
 	country_modifiers = {
 		workforce_scaled = {
-			country_bureaucracy_add = -1.5
+			country_bureaucracy_add = -0.75
 
 		}
 	}
