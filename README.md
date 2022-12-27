@@ -22,7 +22,7 @@ Add worker cooperative to trade center, consist of shopkeepers and clerks in 1:3
 
 (2)Government Run (State Ownership) [only available in command economy]
 Reduce Government Run bureaucratic posts fromv +150 per level to +100 per level (the same number of privately owned capitalists)
-Accordingly, Government Run now consume administrative power:(per level)-1 for agriculture, fishery, forestry and urban centers, -1.5 for mining, -2 for industry and railway, and -0.5 for trade centers and academy of arts (subject to throughput efficiency)
+Accordingly, Government Run now consume administrative power:(per level)-0.2 for agriculture, fishery and forestry, -0.3 for mining and urban center, -0.4 for railway, -0.5 for industry, and -0.1 for trade centers and academy of arts (subject to throughput efficiency)
 Government Run will also remove the clergymen from the farms and pastures. 
 Add government building to urban center, which requires command economy to unlock. Bureaucrats and clerks are in 1:3
 Add government patronage to academy of arts, which requires command economy to unlock. Bureaucrats and scholars are in 15:85
@@ -68,7 +68,7 @@ Theoretically, it is compatible with most mods, as long as they don't change the
 
 (2)政府运营（国家所有制）[只在计划经济下可用] 
 减少了了政府运营官僚岗位，从每级+150降低到每级+100（和私人所有的资本家数量相同）
-相应地，政府运营现在需要消耗行政力：农业、渔业、林业、城镇中心每级-1，矿业每级-1.5，工业、铁路每级-2，贸易中心、艺术学院每级-0.5（会受吞吐效率的影响）
+相应地，政府运营现在需要消耗行政力：农业、渔业、林业每级-0.2，矿业、城镇中心每级-0.3，铁路每级-0.4，工业每级-0.5，贸易中心、艺术学院每级-0.1（会受吞吐效率的影响）
 政府运营也会移除农场和牧场的教士
 城镇中心加入政府大楼，需要计划经济解锁，官僚和职员 1:3
 艺术学院加入政府资助，需要计划经济解锁，官僚和学者 15:85
