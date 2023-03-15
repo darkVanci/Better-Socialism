@@ -1,0 +1,15 @@
+﻿institution_national_economic_commission = {
+	icon = "gfx/interface/icons/institution_icons/fa_gai_wei.dds"
+	background_texture = "gfx/interface/illustrations/institutions/workplace_safety.dds"
+	modifier = {
+		
+	}
+}
+
+institution_national_planning_commission = {
+	icon = "gfx/interface/icons/institution_icons/fa_gai_wei.dds"
+	background_texture = "gfx/interface/illustrations/institutions/workplace_safety.dds"
+	modifier = {
+		
+	}
+}

@@ -1,0 +1,13 @@
+﻿l_english:
+pm_activity_urban_clergy:0 "Activity Centers"
+pm_government_urban_clergy:0 "Government Buildings"
+pm_government_patronage:0 "Government Patronage"
+institution_national_economic_commission:0 "National Economic Commission"
+institution_national_economic_commission_desc:0 "The commission exercising macro-control over the economy."
+modifier_country_institution_national_economic_commission_max_investment_add:0 "Max $institution_national_economic_commission$ [concept_institution] Investment"
+modifier_country_institution_national_economic_commission_max_investment_add_desc:0 "A bonus or penalty to the maxium investment of $institution_national_economic_commission$ [concept_institution]"
+pm_trade_center_worker_cooperative:1 "$pm_worker_cooperative$"
+institution_national_planning_commission:0 "National Planning Commission"
+institution_national_planning_commission_desc:0 "The commission exercising planning guidance over the economy."
+modifier_country_institution_national_planning_commission_max_investment_add:0 "Max $institution_national_planning_commission$ [concept_institution] Investment"
+modifier_country_institution_national_planning_commission_max_investment_add_desc:0 "A bonus or penalty to the maxium investment of $institution_national_planning_commission$ [concept_institution]"
