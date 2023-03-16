@@ -8,7 +8,7 @@
 	building_modifiers = {
 		level_scaled = {
 			building_employment_farmers_add = 250
-			building_employment_clergymen_add = -100
+			building_employment_clergymen_add = -300
 		}
 		unscaled = {
 			building_workforce_shares_add = 1

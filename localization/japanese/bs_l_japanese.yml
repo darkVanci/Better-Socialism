@@ -1,0 +1,13 @@
+﻿l_japanese:
+pm_activity_urban_clergy:0 "文体活動中心"
+pm_government_urban_clergy:0 "政府庁舎"
+pm_government_patronage:0 "政府的援助"
+institution_national_economic_commission:0 "国民経済委員会"
+institution_national_economic_commission_desc:0 "経済をマクロ的にコントロールする委員会。"
+modifier_country_institution_national_economic_commission_max_investment_add:0 "最大 $institution_national_economic_commission$[concept_institution] 投資"
+modifier_country_institution_national_economic_commission_max_investment_add_desc:0 "$institution_national_economic_commission$[concept_institution] の最大投資レベルに対するボーナスあるいはペナルティです"
+pm_trade_center_worker_cooperative:1 "$pm_worker_cooperative$"
+institution_national_planning_commission:0 "国家計画委員会"
+institution_national_planning_commission_desc:0 "経済を計画し、指揮するための委員会。"
+modifier_country_institution_national_planning_commission_max_investment_add:0 "最大 $institution_national_planning_commission$[concept_institution] 投資"
+modifier_country_institution_national_planning_commission_max_investment_add_desc:0 "$institution_national_planning_commission$[concept_institution] の最大投資レベルに対するボーナスあるいはペナルティです"
