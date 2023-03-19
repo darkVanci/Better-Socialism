@@ -7,7 +7,7 @@ institution_national_economic_commission_desc:0 "对经济实行宏观调控的�
 modifier_country_institution_national_economic_commission_max_investment_add:0 "最大$institution_national_economic_commission$[concept_institution]投入等级"
 modifier_country_institution_national_economic_commission_max_investment_add_desc:0 "对$institution_national_economic_commission$[concept_institution]最大投入等级的增益或惩罚"
 pm_trade_center_worker_cooperative:1 "$pm_worker_cooperative$"
-institution_national_planning_commission:0 "国家计划委员会"
+institution_national_planning_commission:0 "中央计划委员会"
 institution_national_planning_commission_desc:0 "对经济实行计划指导的委员会。"
 modifier_country_institution_national_planning_commission_max_investment_add:0 "最大$institution_national_planning_commission$[concept_institution]投入等级"
 modifier_country_institution_national_planning_commission_max_investment_add_desc:0 "对$institution_national_planning_commission$[concept_institution]最大投入等级的增益或惩罚"
