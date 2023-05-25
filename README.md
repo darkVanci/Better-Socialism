@@ -17,11 +17,11 @@ Add Central Planning Commission, providing +2% throughput per level
 
 2. Ownership
 
-(2)the new methods
+(1)the new methods
 Add cooperative for trade center, shopkeepers and clerks 1:1
 Add government patronage to arts academy, bureaucrats and scholars 15: 85
 
-(3) Others
+(2) Others
 Replace the capitalists of the canal with bureaucrats. After all, the canal is not profitable now
 If you want to use another canal mod, find and delete common\production_methods\bs_canals.txt under the mod directory
 
@@ -46,11 +46,11 @@ The update will also be synchronized at: https://github.com/darkVanci/Better-Soc
 
 2. 所有制
 
-(2) 新加入的生产方式
+(1) 新加入的生产方式
 为贸易中心添加了合作社 店主和职员 1:1
 为艺术学院添加了政府资助 官僚和学者 15 : 85
 
-(3) 其它
+(2) 其它
 将运河的资本家替换为官僚, 毕竟现在的运河没法盈利
 如果你想用别的运河 mod, 就找到并删除 mod 目录下的 common\production_methods\bs_canals.txt
 
