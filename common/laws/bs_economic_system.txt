@@ -120,6 +120,8 @@ law_command_economy = {
 	}
 	
 	modifier = {
+		country_institution_national_planning_commission_max_investment_add = 5
+
 		country_subsidies_all = yes
 		country_disable_investment_pool = yes
 		
